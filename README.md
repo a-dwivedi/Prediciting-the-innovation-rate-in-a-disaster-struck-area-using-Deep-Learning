@@ -1,4 +1,4 @@
-## Statistical Analysis in R
+## Machine Learning in R
 
 Before starting, the user should have both R and RStudio installed:
 R is available from: https://www.r-project.org/
