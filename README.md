@@ -23,9 +23,9 @@ training.csv
 
 That should be enough to get you started.
 
-Enjoy!
+Thank you!
 Ayush Dwivedi
-Tyler Jones
 Jeff Bivin
+Tyler Jones
 
 The presentation of this project is available at https://drive.google.com/file/d/1kxHGl4aGWMZGP_5-WZXjxwjL_o0PtslA/view?usp=sharing
